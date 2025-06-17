@@ -1,2 +1,1 @@
-# SupermarktDatabaseProject
-Database project
+# supermarktdb
